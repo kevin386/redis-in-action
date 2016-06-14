@@ -1,1 +1,3 @@
-code shards from <Redis In Action>
+code shards from 
+> "Redis In Action"
+
